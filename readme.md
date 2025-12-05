@@ -21,7 +21,7 @@ A high-performance, offline real-time speech-to-text system optimized for MacBoo
 ## Prerequisites
 
 - macOS with Apple Silicon (M1/M2/M3)
-- Python 3.8+
+- Python 3.11+
 - Node.js 18+
 - Git
 - Xcode Command Line Tools
