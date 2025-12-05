@@ -31,7 +31,7 @@ A high-performance, offline real-time speech-to-text system optimized for MacBoo
 ### Step 1: Clone the Repository
 
 ```bash
-git remote add origin https://github.com/MehediHasan-ds/vosk_large_whisper_small_benchmark.git
+git clone https://github.com/MehediHasan-ds/vosk_large_whisper_small_benchmark.git
 cd vosk_large_whisper_small_benchmark
 ```
 
